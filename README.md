@@ -57,5 +57,5 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-<h3><a href="https://amal-prakash.tect">My Website</a></h3>
+<h3><a href="https://amal-prakash.tech">My Website</a></h3>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=amalp12&repo=amalp12a&countColorcountColor&countColor=%237B1E7B"/>
