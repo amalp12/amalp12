@@ -6,8 +6,8 @@
 
 <p align="center">
   <em>
-    A 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>Dr. A. P. J. Abdul Kalam Technical University</b>, Uttar Pradesh</a>. <br>
-    An aspiring <b>Product Manager </b>  and a <b>Machine Learning and Hackathon Enthusiast, </b>&nbsp<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> &nbsp <br><b>A learner</b>
+    A 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>National Institute of Technology</b>, Calicut</a>. <br>
+    An aspiring <b>Webdeveloper </b>  and a <b>Machine Learning Enthusiast, </b>&nbsp<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> &nbsp <br><b>A learner</b>
     with an insatiable thirst for learning and never-dying curiosity of <b>integrating</b> my existing knowledge and skill set with ever evolving world of ideas and technologies. <img src="https://media.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width="40px">
   </em>
 </p>
@@ -16,11 +16,9 @@
 
  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about me:_**
 
-- Currently learning **_MEAN stack_** :smiley:
 - Working on imroving my **_Competitive Programming skills..._**
 - Looking forward to work on Back-end projects &nbsp;! :sparkles:
-- Collaborating on various projects as an Open - Source Contributor/Mentor :rocket:
-- Desire to develop new possibilities in the field of **_Product Management_** and **_Machine Learning_** 💻
+- Desire to develop new possibilities in the field of **_Web Development_** **_Product Management_** and **_Machine Learning_** 💻
 - Ask me about anything, I am happy to help, if that is the secret recipe of my favourite dish.⚡️
 - Fun-Fact: Loves **_doodling_**, **_writing stories_** & above all, **_memes_** :sparkling_heart:
 
@@ -60,11 +58,11 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-<a href="https://twitter.com/saloniankita_">
+<a href="https://twitter.com">
   <img align="left" alt="Ankita Saloni | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 
-<a href="https://t.me/saloniankita">
+<a href="https://t.me/">
   <img align="left" alt="Ankita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
 
