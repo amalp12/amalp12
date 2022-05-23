@@ -1,7 +1,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/CV8n4vC6r9b5J3JZd9/giphy.gif" width="30px">  𝐇𝐞𝐥𝐥𝐨, <𝚍𝚎v𝚜/> ! 
 <br>
-<h1 align="center">Amal Prakash Here 👋  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="120px">
+<h1 align="center">Amal Prakash Here 👋  
 </h1>
 
 <p align="center">
