@@ -57,12 +57,5 @@
 
 # Connect with me <img src="https://media.giphy.com/media/xT9DPIlGnuHpr2yObu/giphy.gif" height="50px">
 
-<a href="https://twitter.com">
-  <img align="left" alt="Ankita Saloni | Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-
-<a href="https://t.me/">
-  <img align="left" alt="Ankita's Telegram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
+<h3><a href="https://amal-prakash.tect">My Website</a></h3>
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=amalp12&repo=amalp12a&countColorcountColor&countColor=%237B1E7B"/>
