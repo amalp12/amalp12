@@ -14,9 +14,10 @@
 
 <img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
 
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about me:_**
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;
+  **_Talking about me:_**
 
-- Working on imroving my **_Competitive Programming skills..._**
+
 - Looking forward to work on Back-end projects &nbsp;! :sparkles:
 - Desire to develop new possibilities in the field of **_Web Development_** **_Product Management_** and **_Machine Learning_** 💻
 - Ask me about anything, I am happy to help, if that is the secret recipe of my favourite dish.⚡️
