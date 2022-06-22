@@ -3,24 +3,7 @@
 <br>
 <h1 align="center">Amal Prakash Here 👋  
 </h1>
-
-<p align="center">
-  <em>
-    A 3rd year undergraduate pursuing B.Tech (CSE) from <a href="https://aktu.ac.in/"> <b>National Institute of Technology</b>, Calicut</a>. <br>
-    An aspiring <b>Webdeveloper </b>  and a <b>Machine Learning Enthusiast, </b>&nbsp<img src="https://media.giphy.com/media/7TcdtHOCxo3meUvPgj/giphy.gif" width="30px"> &nbsp <br><b>A learner</b>
-    with an insatiable thirst for learning and never-dying curiosity of <b>integrating</b> my existing knowledge and skill set with ever evolving world of ideas and technologies. <img src="https://media.giphy.com/media/fUXZfIDUl8K7lJJ9KK/giphy.gif" width="40px">
-  </em>
-</p>
-
-<img align="right" width=300px alt="Github Cat" src="https://camo.githubusercontent.com/3b7c592ede97b6138ffd4b1cc1541c2f3b11fd39/687474703a2f2f33312e6d656469612e74756d626c722e636f6d2f31376665613932306666333665663466356238373764353231366137616164392f74756d626c725f6d6f39786a65387a5a34317163626975666f315f313238302e676966" />
-
- <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;**_Talking about me:_**
-
-- Working on imroving my **_Competitive Programming skills..._**
-- Looking forward to work on Back-end projects &nbsp;! :sparkles:
-- Desire to develop new possibilities in the field of **_Web Development_** **_Product Management_** and **_Machine Learning_** 💻
-
-
+  
 <hr>
 
 ## _Languages and Tools:_ 🛠  
